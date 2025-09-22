@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+Hello world! My name is Madeline Garner and I am a computer science major at Boise State University.
